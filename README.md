@@ -1,7 +1,6 @@
-# HiFreSP
+# HiFreSP: A novel high-frequency sub-pathway mining approach to identify robust prognostic gene signature
 updated on Dec 27 2018
 
-HiFreSP Help
 
 Title: HiFreSP: A novel high-frequency subpathways mining approach to identify robust prognosis gene signatures
 
